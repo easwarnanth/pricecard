@@ -1,0 +1,55 @@
+.price{
+    margin: 10px;
+      border: 10px;
+      padding: 10px;
+      background: center;
+  }
+  .container{
+      width: 100%;
+      padding: 10px;
+      margin: 10px;
+      border:10px;
+      background-image: linear-gradient(to right,rgb(46, 48, 206), rgb(63, 107, 190), skyblue);
+      background-position: center;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      align-content: center;
+  
+     
+  }
+  .price-container {
+      padding: 10px;
+      margin: 10px;
+      border:10px;
+      background-position: center;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      align-content: center;
+      background: center;
+     
+    }
+    #btn{
+        width: 220px;
+        margin: 12px;
+        border-radius: 18px;
+        font-size:medium;
+        text-transform: uppercase;
+        font-weight: bolder;
+    }
+    #card{
+     border-radius: 12px;
+      background-position: center;
+      width: 250px;
+       margin: 1em;
+      }
+     
+      li{
+          font-family:'Times New Roman', Times, serif;
+          font-weight: 500;
+      }
+      i{
+         font-size: 10px ;
+         font-weight: 900;
+      }
